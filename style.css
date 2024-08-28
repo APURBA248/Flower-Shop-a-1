@@ -158,7 +158,7 @@
   font-size: 40px;
   font-weight: 800;
 }
-.latest-deals-input{
+.latest-deals-input {
   width: 700px;
   height: 64px;
   border-radius: 8px;
@@ -178,4 +178,26 @@
   border-radius: 8px;
   background: #e55473;
   margin-left: 15px;
+}
+/* footer-start  */
+.footer-container {
+  text-align: center;
+  background-color: #111010;
+  color: white;
+  padding: 100px;
+}
+.footer-title {
+  color: #fff;
+  font-size: 48px;
+  font-weight: 800;
+}
+span {
+  color: #e55473;
+}
+.footer-text {
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 18px;
+  font-weight: 400;
+  margin: 20px 0px;
+  
 }
